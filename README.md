@@ -30,6 +30,7 @@ If you [clone with SSH](https://help.github.com/articles/which-remote-url-should
 [**源地址**](http://www.cnblogs.com/vman/articles/Git_cmds.html)
 
 ![image](http://images2015.cnblogs.com/blog/746037/201512/746037-20151224113444187-115766070.png)
+![image1](http://pic002.cnblogs.com/img/1-2-3/201007/2010072023345292.png)
 
 ## 查看、添加、提交、删除、找回，重置修改文件
 
