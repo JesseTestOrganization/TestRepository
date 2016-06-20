@@ -29,6 +29,8 @@ If you [clone with SSH](https://help.github.com/articles/which-remote-url-should
 # Git常用命令
 [**源地址**](http://www.cnblogs.com/vman/articles/Git_cmds.html)
 
+![image](http://files.jb51.net/file_images/article/201409/git_big_jb51.jpg)
+
 ## 查看、添加、提交、删除、找回，重置修改文件
 
 git help \<command\> # 显示command的help
