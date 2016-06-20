@@ -14,4 +14,15 @@ https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-s
 
 >         $ git config --global user.email "YOUR EMAIL ADDRESS"
 
+## Authenticating with GitHub from Git
+When you connect to a GitHub repository from Git, you'll need to authenticate with GitHub using either HTTPS or SSH.
+
+### Connecting over HTTPS (recommended)
+
+If you [clone with HTTPS](https://help.github.com/articles/which-remote-url-should-i-use/#cloning-with-https-urls-recommended), you can [cache your GitHub password in Git](https://help.github.com/articles/caching-your-github-password-in-git) using a credential helper.
+
+### Connecting over SSH
+
+If you [clone with SSH](https://help.github.com/articles/which-remote-url-should-i-use#cloning-with-ssh-urls), you must [generate SSH keys](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) on each computer you use to push or pull from GitHub.
+
   
