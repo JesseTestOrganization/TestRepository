@@ -29,7 +29,7 @@ If you [clone with SSH](https://help.github.com/articles/which-remote-url-should
 # Git常用命令
 [**源地址**](http://www.cnblogs.com/vman/articles/Git_cmds.html)
 
-![image](http://cdn.sspai.com/attachment/thumbnail/2014/04/15/620e64aa6522f5eaeb788a8b5f1faa5c10f74_mw_800_wm_1_wmp_3.jpg)
+![image](http://images2015.cnblogs.com/blog/746037/201512/746037-20151224113444187-115766070.png)
 
 ## 查看、添加、提交、删除、找回，重置修改文件
 
